@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Semester Buddy</string>
+    <!-- Google Sign-In -->
+    <string name="google_web_client_id">266825895712–9vphgllbhql2ra3npprn6uqg4uuelrtv.apps.googleusercontent.com</string>
+</resources>
